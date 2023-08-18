@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RayHub1/add-comment-app.git/static/css/main.f8008b5a.css",
+    "main.js": "/RayHub1/add-comment-app.git/static/js/main.76adaa2b.js",
+    "index.html": "/RayHub1/add-comment-app.git/index.html",
+    "main.f8008b5a.css.map": "/RayHub1/add-comment-app.git/static/css/main.f8008b5a.css.map",
+    "main.76adaa2b.js.map": "/RayHub1/add-comment-app.git/static/js/main.76adaa2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8008b5a.css",
+    "static/js/main.76adaa2b.js"
+  ]
+}
